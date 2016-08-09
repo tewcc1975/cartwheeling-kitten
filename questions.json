@@ -2,4 +2,9 @@
   "tags": ["rotation", "rotation1", "rotation2"],
   "question": "What is a Torque?",
   "answer": "Torque is ..."
+},
+{
+  "tags": ["bones"],
+  "question": "What is the patella?",
+  "answer": "The patella is a knee bone."
 }
